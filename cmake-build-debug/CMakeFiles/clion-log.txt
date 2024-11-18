@@ -1,0 +1,4 @@
+"C:\fci_zu\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\data structure_projects\task2_DArray"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/data structure_projects/task2_DArray/cmake-build-debug
